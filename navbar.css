@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar{
+    background-color: #e9f2f2;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-menu{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.request button{
+    background-color: #22B6AF;
+    padding: 10px;
+    color: azure;
+    font-weight: 600;
+    border: none;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: white;
+}

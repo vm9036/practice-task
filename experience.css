@@ -1,0 +1,44 @@
+.experience {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.exp-content{
+    max-width: 500px;
+    margin-left: 50px;
+}
+
+.exp-content h4{
+    color: #22B6AF;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.exp-content h1 {
+    font-size: 36px;
+    margin-block: 10px;
+    text-transform: capitalize;
+}
+
+.exp-content p {
+    font-size: 19px;
+    line-height: 30px;
+    font-weight: 400;
+    margin-block: 10px;
+}
+
+.fa-circle-check{
+    color: #22B6AF;
+}
+
+.exp-content button{
+    background-color: #00FFB9;
+    padding: 15px;
+    border: none;
+    color: black;
+    font-weight: 700;
+    width: 35%;
+}
+

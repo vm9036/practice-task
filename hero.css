@@ -1,0 +1,33 @@
+.hero{
+    display: flex;
+    background-image: url(slider-background.png);
+    align-items: center;
+    height: 515px;
+    background-color:  #70e7e1ef;
+    justify-content: center;
+}
+
+.main-content{
+    max-width: 500px;
+    margin-left: 50px;
+}
+
+.main-content h1{
+    font-size: 350%;
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    font-size: 125%;
+    margin-bottom: 20px;
+}
+
+.main-content button{
+    background-color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    width: 35%;
+}
+
+
