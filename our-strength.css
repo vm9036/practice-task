@@ -1,0 +1,58 @@
+.our-strength{
+    padding: 20px;
+    background-color: #f0fafa;
+}
+
+.strength-heading h1{
+    font-size: 42px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    margin-block: 40px;
+}
+
+.strength-heading p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 5px;
+}
+
+.strength-boxes {
+    margin-block: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 350px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-width: 0px 2px 2px 0px;
+    border-color: #04fcfc;
+    border-style: solid;
+}
+
+.icon{
+    font-size: 50px;
+    text-align: center;
+    margin-block: 20px;
+}
+
+.heading{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.content p{
+    font-size: 19px;
+    font-weight: 400;
+    margin-block: 20px;
+    text-align: center;
+    line-height: 25px;
+}
+
